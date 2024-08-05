@@ -11,4 +11,3 @@ All project links will be available bellow
 | Personal Library          |      |
 | Stock Price Checker       |      |
 | Anonymous Message Board   |      |
-| ---                       | ---  |

@@ -2,7 +2,7 @@
 
 ## Information Security and Quality Assurance
 
-All project links will be available bellow
+All project links will be available bellow:
 
 | Project                   | Link |
 | :------------------------ | :--- |
